@@ -219,6 +219,8 @@ usr/lib/pam_unix.so.6
 usr/lib/libprivateheimipcc.so.11
 usr/lib/libprivateldns.so.5
 usr/lib/libprivatessh.so.5
+usr/lib/libregex.so
+usr/lib/libregex.so.1
 usr/libexec/getty
 usr/libexec/sftp-server
 usr/sbin/arp

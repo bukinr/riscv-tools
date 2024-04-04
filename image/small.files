@@ -45,6 +45,8 @@ lib/libedit.so.8
 lib/libmd.so.6
 lib/libufs.so.6
 lib/libncursesw.so.8
+lib/libtinfow.so.9
+lib/libsys.so.7
 lib/ld.so.1
 libexec
 libexec/ld-elf.so.1

@@ -94,6 +94,7 @@ lib/libkiconv.so.4
 lib/libkvm.so.7
 lib/libm.so.5
 lib/libmd.so.6
+lib/libsys.so.7
 lib/libncursesw.so.9
 lib/libnv.so.0
 lib/libpcap.so.8
@@ -105,6 +106,8 @@ lib/libufs.so.7
 lib/libutil.so.9
 lib/libxo.so.0
 lib/libz.so.6
+lib/libcap_fileargs.so.1
+lib/libnv.so.1
 libexec/ld-elf.so.1
 mnt
 root
@@ -216,6 +219,8 @@ usr/lib/pam_ssh.so
 usr/lib/pam_ssh.so.6
 usr/lib/pam_unix.so
 usr/lib/pam_unix.so.6
+usr/lib/pam_xdg.so
+usr/lib/pam_xdg.so.6
 usr/lib/libprivateheimipcc.so.11
 usr/lib/libprivateldns.so.5
 usr/lib/libprivatessh.so.5
